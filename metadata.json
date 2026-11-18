@@ -1,0 +1,6 @@
+{
+  "name": "PARADISE CAB",
+  "description": "PARADISE CAB — Registered Sri Lankan Rent a Car and Taxi Service offering private airport transfers, chauffeur-driven transport, and customized Sri Lanka tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
